@@ -7,7 +7,10 @@ Create a summary DataFrame of the ride-sharing data by city type. Create a line 
 
 ![image](https://github.com/demarcomf/PyBer_Analysis/blob/main/Total%20Fare%20by%20City%20Type%20graph.png)
 
-Key differentiations in the data described in this exercise: -in terms of total riders and the fares associated, urban areas warrant more occurrences, but not necessarily longer travel. it can be expected that when you live in the city, a car might not be as standard to have since most of your daily travels will be within shorter distances and can potentially cause issues owning vehicles with limited garage or parking space. -in terms of average fares in correlation to the distance traveled when getting a ride, rural and suburban riders tend to spend more money for their travels because in most situations, they will have to travel further to events or restaurants that primarily reside in the more city like, urban areas. the urban living folks pay more for convenience in where they live, and in turn, won't have to pay as much for their travels. -one thing to note: suburban people probably go to silly places like Starbucks or WholeFoods, and most likely use it for drunken nights. getting home safe is a much deserved premium to pay.
+Key differentiations in the data described in this exercise: 
+- in terms of total riders and the fares associated, urban areas warrant more occurrences, but not necessarily longer travel. it can be expected that when you live in the city, a car might not be as standard to have since most of your daily travels will be within shorter distances and can potentially cause issues owning vehicles with limited garage or parking space. 
+- in terms of average fares in correlation to the distance traveled when getting a ride, rural and suburban riders tend to spend more money for their travels because in most situations, they will have to travel further to events or restaurants that primarily reside in the more city like, urban areas. the urban living folks pay more for convenience in where they live, and in turn, won't have to pay as much for their travels. 
+- one thing to note: suburban people probably go to silly places like Starbucks or WholeFoods, and most likely use it for drunken nights. getting home safe is a much deserved premium to pay.
 
 ## Summary
 - invest in horses 
